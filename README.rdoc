@@ -5,6 +5,5 @@ this is a simple to do list app
 
 Containes
 =========
-
 * categories
 * ability to create multiple todo lists 
