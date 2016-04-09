@@ -3,7 +3,7 @@
 
 this is a simple to do list app
 
-Containes
-=========
-* categories
-* ability to create multiple todo lists 
+===Containes
+
+1. categories
+2. ability to create multiple todo lists 
